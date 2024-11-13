@@ -1,0 +1,21 @@
+{
+  "quiz": {
+    "questions": [
+      {
+        "question": "Was ist die Hauptstadt von Frankreich?",
+        "correct_answer": "Paris",
+        "wrong_answers": ["Lyon", "Marseille", "Nizza"]
+      },
+      {
+        "question": "Wie viele Kontinente gibt es?",
+        "correct_answer": "Sieben",
+        "wrong_answers": ["Fünf", "Sechs", "Acht"]
+      },
+      {
+        "question": "Wer hat die Relativitätstheorie entwickelt?",
+        "correct_answer": "Albert Einstein",
+        "wrong_answers": ["Isaac Newton", "Nikola Tesla", "Galileo Galilei"]
+      }
+    ]
+  }
+}
